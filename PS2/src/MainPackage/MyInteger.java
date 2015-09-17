@@ -120,7 +120,7 @@ public class MyInteger {
 
 	// A static method parseInt(char[]) that converts an array of
 	// numeric characters to an int value.
-	// would not work until i coded parseInt (string)first
+	
 
 	public static int parseInt(char[] s) {
 		return parseInt(new String(s));
